@@ -2,13 +2,12 @@
 
 Aplikasi halaman admin e-commerce dengan fitur **CRUD (Create, Read, Update, Delete)** untuk tabel master **Produk**, dibangun menggunakan **Laravel 9** dan **MySQL**.
 
-## Anggota Kelompok
+## Anggota
 
 | No | Nama Lengkap | NIM |
 |----|--------------|-----|
-| 1  | [Nama Lengkap Anggota 1] | [NIM Anggota 1] |
-| 2  | [Nama Lengkap Anggota 2] | [NIM Anggota 2] |
-| 3  | [Nama Lengkap Anggota 3] | [NIM Anggota 3] |
+| 1  | [Rapasha Anto Ramadhani] | [2522105004] |
+
 
 > Ganti placeholder di atas dengan nama dan NIM anggota kelompok Anda.
 
